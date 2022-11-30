@@ -1,0 +1,17 @@
+#foot-mark{
+    position: fixed;
+    bottom: 0px;
+    left: 10vw;
+    display: flex;
+    justify-content: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-image: url('../img/leather.webp');
+    padding: 10px;
+    margin: 5px;
+}
+
+.footText{
+    color:aquamarine;
+    font-family: sans-serif;
+}
